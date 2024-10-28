@@ -17,7 +17,7 @@ function App() {
       backgroundColor: "#FFD700",
       text: "Kiran Theme",
     },
-    Abhishek: {
+    Abhishekk: {
       backgroundColor: "#87CEEB",
       text: "Abhishek Theme.",
     },
@@ -31,7 +31,7 @@ function App() {
         <label className="namebox1" htmlFor="theme">Theme:</label>
         <select className="namebox" id="branch" onChange={handleThemeChange}>
           <option value="Kiran" className="b1">Kiran</option>
-          <option value="Abhishek" className="b1">Abhishek</option>
+          <option value="Abhishekk" className="b1">Abhishek</option>
         </select>
       </div>
 
